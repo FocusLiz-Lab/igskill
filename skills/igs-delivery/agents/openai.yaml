@@ -1,0 +1,4 @@
+interface:
+  display_name: "Iman Gadzhi · 客户交付与续约"
+  short_description: "Build a 客户交付与续约 using expert methodology"
+  default_prompt: "Use $igs-delivery to build a practical 客户交付与续约 for my situation."

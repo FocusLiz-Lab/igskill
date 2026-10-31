@@ -1,0 +1,4 @@
+interface:
+  display_name: "Iman Gadzhi · 咨询与成交"
+  short_description: "Build a 咨询与成交 using expert methodology"
+  default_prompt: "Use $igs-sales to build a practical 咨询与成交 for my situation."

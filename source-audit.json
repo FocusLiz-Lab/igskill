@@ -1,0 +1,246 @@
+{
+  "prefix": "igs",
+  "repository": "igskill",
+  "creator": "ImanGadzhi",
+  "source_files": 851,
+  "unique_sources": 824,
+  "modules": {
+    "learning-map": {
+      "matching_sources": 173,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 在线创业与赚钱/250813 复制这个方法，用数字产品每周赚2700美元.md",
+          "title": "250813 复制这个方法，用数字产品每周赚2700美元",
+          "url": "https://www.youtube.com/watch?v=A-yBamfrXQs",
+          "date": "2025-08-13",
+          "sha256": "77433e19d77582df8350cf4a1387fed3a8269204cb885d6cc027a0b49ba655e5",
+          "chars": 15183,
+          "excerpt": "不妨这样想：如果你擅长使用 Canva，你可以教别人如何使用 Canva；如果你精通制作 PowerPoint 演示文稿，你就可以直接教授这项技能；如果你是位母亲，并且希望帮助他人学习烹饪，你可以将自己的食谱和烹饪技巧打包成数字产品出售。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录03 自律效率与成长/230117 17 Life Lessons (I Wish Someone Had Told Me).md",
+          "title": "230117 17 Life Lessons (I Wish Someone Had Told Me)",
+          "url": "https://www.youtube.com/watch?v=NqDO5zOqnFM",
+          "date": "2023-01-17",
+          "sha256": "272fbec33fb5af8b4f08b185b902a158e6743e3e4c3c49f21c439ab9f377586f",
+          "chars": 20199,
+          "excerpt": "it's simply having good Financial hygiene and building those good habits early on the next life lesson if you're a teenager is build High income skills a high income skill could be content creation it could be sales it could be copywriting these are things that no matter what I don't care if the year is 2023 I don't care if the year is 20 40."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录04 人生故事与生活/210805 I Learned This After Making $10,000,000 by 21 Years Old.md",
+          "title": "210805 I Learned This After Making $10,000,000 by 21 Years Old",
+          "url": "https://www.youtube.com/watch?v=wiyNfNvM8Ng",
+          "date": "2021-08-05",
+          "sha256": "ec40872cc98bdf94bf9e4f01a6a950fa77988892668fe9dff6a014485d8561f2",
+          "chars": 21962,
+          "excerpt": "ladies and gentlemen i filmed a rather similar video four years ago when i was 17 years old entitled three things i learned making a hundred thousand dollars by the age of 17."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "roadmap": {
+      "matching_sources": 185,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录04 人生故事与生活/260104 我记录了自己从一无所有至今的整个人生.md",
+          "title": "260104 我记录了自己从一无所有至今的整个人生",
+          "url": "https://www.youtube.com/watch?v=pe9ZXIwMBBM",
+          "date": "2026-01-04",
+          "sha256": "31bce7c959f6a42b5dc3d093025e788900c6b744593045e3709236511ccd64b1",
+          "chars": 69820,
+          "excerpt": "基本上，我的目标就是让那些 15 岁、 14 岁、16 岁、19 岁、20 岁，无论你们多大年纪的人，看到我的视频时心想：“哇， 你知道的，只要坚持下去，付出努力， 美好的事情就会发生。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录04 人生故事与生活/200112 My 2020 Goals REVEALED.md",
+          "title": "200112 My 2020 Goals REVEALED",
+          "url": "https://www.youtube.com/watch?v=VTJmwuDoSxA",
+          "date": "2020-01-12",
+          "sha256": "02ca728adc1e44babcdef89d893d6f645b41854a626ba9e893ee4ad33cdb7ed1",
+          "chars": 10301,
+          "excerpt": "h goal number three for 2019 so the next portion this video I really just want to talk about some of the philosophies around goal-setting there are people out there that will literally set twenty different goals for themselves in a year and I'm just not a fan of that at all I like to have three goals per year I feel so if you have more than three goals per year it's not gonna get engrained into your mind and for those of you guys who have agency Incubator who do the SBA we retreat every single m"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 在线创业与赚钱/260317 Best Online Business to Make $10k+-month In 2026 (Beginner Friendly).md",
+          "title": "260317 Best Online Business to Make $10k+-month In 2026 (Beginner Friendly)",
+          "url": "https://www.youtube.com/watch?v=pPpb4t2eV2M",
+          "date": "2026-03-17",
+          "sha256": "7b56dbebff280642963ad6765f3fb066a66d8f424db9bc3c377fb2bf3ddd7bb3",
+          "chars": 59246,
+          "excerpt": "This plan includes what product they should create based on their audiences needs, how much they can charge based on audience size and niche, projected revenue, how much they'll make on the first launch, launch strategy, the exact 14-day process to sell it."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "agency": {
+      "matching_sources": 231,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 在线创业与赚钱/190526 Why Business Partners Are Stupid If You Own An Agency.md",
+          "title": "190526 Why Business Partners Are Stupid If You Own An Agency",
+          "url": "https://www.youtube.com/watch?v=-JlX497vpiM",
+          "date": "2019-05-26",
+          "sha256": "77b164cd9d352b8a3d96e4eb85e6eed4ba1f607109d474e3fdbccca6b7ce1aaf",
+          "chars": 21577,
+          "excerpt": "once again but just for me personally if I had a business partner in my agency you know a 50-50 business partner I'd have to give 50 percent of my profits to my business partner if I had a business partner of my agency and I own a hundred percent of all of my businesses even though they're technically only under one legal entity one legal company if I had a business partner and let's say a 50 percent business partner I would have to give that business partner fifty percent of my profits and then"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 在线创业与赚钱/251118 How To Start SMMA For Beginners In 2026 With $0.md",
+          "title": "251118 How To Start SMMA For Beginners In 2026 With $0",
+          "url": "https://www.youtube.com/watch?v=eIvHH8qQOfc",
+          "date": "2025-11-18",
+          "sha256": "40ef6d40a2c5703bd304c3fccfaef97b79a2f267a294406d332a10b2aa935c34",
+          "chars": 70433,
+          "excerpt": "Starting an agency is one of the best beginner friendly business models out there."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 在线创业与赚钱/200202 How John Danes Used Agency Incubator To Scale To $18,000 Per Month With His SMMA.md",
+          "title": "200202 How John Danes Used Agency Incubator To Scale To $18,000 Per Month With His SMMA",
+          "url": "https://www.youtube.com/watch?v=pHDjR5V4KY0",
+          "date": "2020-02-02",
+          "sha256": "8e394cec02a7f8ded371d52e71be6f54810157f7b40bd6bcdc1dd6c07c0e4acc",
+          "chars": 39380,
+          "excerpt": "ea basically followed agency incubator to a tea and you know that the tour reflects in terms of your agency's results the results that you guys get for your agency you know just the sort of recognition you guys have as agency owners respect I know that you command as an agency owner the one thing you haven't followed to T is business partner and I want to touch I want to touch on that and I'll dive into that because there's a lot of people because here's the thing when I'm talking to such a big"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "offer": {
+      "matching_sources": 152,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 在线创业与赚钱/251118 How To Start SMMA For Beginners In 2026 With $0.md",
+          "title": "251118 How To Start SMMA For Beginners In 2026 With $0",
+          "url": "https://www.youtube.com/watch?v=eIvHH8qQOfc",
+          "date": "2025-11-18",
+          "sha256": "40ef6d40a2c5703bd304c3fccfaef97b79a2f267a294406d332a10b2aa935c34",
+          "chars": 70433,
+          "excerpt": "Find local businesses, offer them marketing services, and collect monthly retainers."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 在线创业与赚钱/190324 Six & Seven-Figure Agency- What You Can Expect On Your Journey.md",
+          "title": "190324 Six & Seven-Figure Agency- What You Can Expect On Your Journey",
+          "url": "https://www.youtube.com/watch?v=O2UhNx2YdF0",
+          "date": "2019-03-24",
+          "sha256": "79ea9ba4e16a8decf1a30f5c08870fa5bc7aea2721439eb06cec65e98141f94d",
+          "chars": 14182,
+          "excerpt": "e offering and number two is operations so let's start off with service offering at six figures so in order to do six stickers a year with your agency you have to do 8,3 like $33 a month. 33 I think so you have to do roughly 8K a month now in terms of your service offering it is very easy to offer for example content and hit 8K a month uh it's very easy to offer you know you can even hit 8K a month just doing social media management and like um I've seen it before with other people where they ju"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 在线创业与赚钱/201105 10 Step Guide To Starting An SMMA In 2021 (BEGINNER FRIENDLY).md",
+          "title": "201105 10 Step Guide To Starting An SMMA In 2021 (BEGINNER FRIENDLY)",
+          "url": "https://www.youtube.com/watch?v=-kteL5NvsXE",
+          "date": "2020-11-05",
+          "sha256": "b9e3fccf1297feace94b41c1bbaf50166937a4726cce10f80acfa614baf0be0c",
+          "chars": 17381,
+          "excerpt": "When I first started offering marketing services, I actually didn't even have an agency name for five months."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "outreach": {
+      "matching_sources": 172,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 在线创业与赚钱/200526 Closing $80,000 Of SMMA Clients In 72 Hours.md",
+          "title": "200526 Closing $80,000 Of SMMA Clients In 72 Hours",
+          "url": "https://www.youtube.com/watch?v=p1cF_VVyG-Q",
+          "date": "2020-05-26",
+          "sha256": "16d977b351ad2cb10b73c4856112b71c89b17cf12b2b1191be8bbda32ffd38db",
+          "chars": 66629,
+          "excerpt": "So for me, you know, these past few clients, I'm really undercharging for my normal price, but I'm just starting to get into the mind frame of like what is the guaranteed, not even the lifetime value of the client, but what's the guaranteed value of the client?"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 在线创业与赚钱/200427 EXPOSED- What It's Like Being An IAG Media Client (Interview).md",
+          "title": "200427 EXPOSED- What It's Like Being An IAG Media Client (Interview)",
+          "url": "https://www.youtube.com/watch?v=oXyvaI3uHhw",
+          "date": "2020-04-27",
+          "sha256": "b909bbea5e5a450313862410d4609c79c755190d546cd3be31f546d1abf69f4d",
+          "chars": 33453,
+          "excerpt": "so ladies and gentlemen this is a leaked IAG media client interview now I did this interview with one of my clients and when it comes to everything about being an agency owner I am meticulous except for getting client testimonials and interviewing clients just in general I think literally everything that is the one thing I need to get better at I just make it more of an effort any of the testimonials I've ever gone from clients they've all just sent to me voluntarily but anyways we actually di"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 在线创业与赚钱/210619 Closing A $12,000-Per Month Agency Client -LIVE Footage-.md",
+          "title": "210619 Closing A $12,000-Per Month Agency Client -LIVE Footage-",
+          "url": "https://www.youtube.com/watch?v=VWn-wDJIzPg",
+          "date": "2021-06-19",
+          "sha256": "3ab3f65865c3c48a532106980fd2ce5f88808c43182a7a0c60c6b6d0328b97f1",
+          "chars": 74301,
+          "excerpt": "You know, cuz we've got clients come to us, you know, one that comes to mind 2 months ago, uh actually yeah, 2 and 1/2 months ago, um you know, this client was just selling in UK and we're like, \"Look, I think you're going to do better."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "sales": {
+      "matching_sources": 237,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 在线创业与赚钱/200526 Closing $80,000 Of SMMA Clients In 72 Hours.md",
+          "title": "200526 Closing $80,000 Of SMMA Clients In 72 Hours",
+          "url": "https://www.youtube.com/watch?v=p1cF_VVyG-Q",
+          "date": "2020-05-26",
+          "sha256": "16d977b351ad2cb10b73c4856112b71c89b17cf12b2b1191be8bbda32ffd38db",
+          "chars": 66629,
+          "excerpt": "Obviously now Dany does a demo call, but my point is, I did a three call close with them rather than a two call, you know the demo and then close and I'll throw in the last portion of our second call where basically I said, I'll speak to you guys on Thursday, blah blah."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 在线创业与赚钱/200305 that was a BAD sales call... (SMMA Vlog).md",
+          "title": "200305 that was a BAD sales call... (SMMA Vlog)",
+          "url": "https://www.youtube.com/watch?v=1fzmjNOlK8w",
+          "date": "2020-03-05",
+          "sha256": "897bf9d72a547f179d4d9300ab203e09f3272570f436e96a5a12b2d093e9b899",
+          "chars": 28976,
+          "excerpt": "lly higher than what they're doing right now so Danny I had a talk after call and it just doesn't make sense to bring his client on so you know it just is what it is it's just a logistical thing the only thing I'm annoyed about is that sales call was a shambles like Jade that sales call from my side was a joke like I felt so off on that call the last two sales calls I've actually in this new place have both been around nine o'clock and guys and by the time nine o'clock rolls around I am so dead"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 在线创业与赚钱/171210 How To Close A Social Media Marketing Client With Cold Calling.md",
+          "title": "171210 How To Close A Social Media Marketing Client With Cold Calling",
+          "url": "https://www.youtube.com/watch?v=b-1aPptrBf0",
+          "date": "2017-12-10",
+          "sha256": "0e967b399472c6856e7846e698448129396f5808e1938878ffff61ab3c90562a",
+          "chars": 19287,
+          "excerpt": "miss Lancer that goes with the unexpected are you're gonna close the sale I'm gonna open up the lead seem like I'm just well at my selling there is she and your pipedrive no well I look like I don't know if she knows but she isn't mine and on that note guys this is my sales guy I'm ashamed to say navigate this is so guys this is my sales guy Esteban now we've got really cool video I brought him over to the crib because I wanted to talk about the topic of cold calling of sales what not because"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "delivery": {
+      "matching_sources": 89,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 在线创业与赚钱/260906 一起开启日赚373美元的副业 [限时回放].md",
+          "title": "260906 一起开启日赚373美元的副业 [限时回放]",
+          "url": "https://www.youtube.com/watch?v=z0Zg66iNeS0",
+          "date": "2026-09-06",
+          "sha256": "b1625683c79474ce9996331e094e1d7ec5a4946168a879c1a4e8d055e10fcca8",
+          "chars": 27801,
+          "excerpt": "用这个问题审视那些常见的选项：自由职业，你停止工作，恭喜，收入也就停了；eBay 倒卖，你停止买卖，收入也就停了；即便是Dropshipping（代发货），虽然销售流程可以自动化，但如果你停止履约交付，收入照样会停。"
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 在线创业与赚钱/210619 Closing A $12,000-Per Month Agency Client -LIVE Footage-.md",
+          "title": "210619 Closing A $12,000-Per Month Agency Client -LIVE Footage-",
+          "url": "https://www.youtube.com/watch?v=VWn-wDJIzPg",
+          "date": "2021-06-19",
+          "sha256": "3ab3f65865c3c48a532106980fd2ce5f88808c43182a7a0c60c6b6d0328b97f1",
+          "chars": 74301,
+          "excerpt": "So, that way you're paying for the retainer and that way you're bring paying for the value that we bring you, not an espresso addiction, not for some swanky office so that we can look cool so we can just focus on getting you the results that we want."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录02 商业增长与财富/201015 From 0 to Millionaire at the Age of 20 (SHOCKING STORY).md",
+          "title": "201015 From 0 to Millionaire at the Age of 20 (SHOCKING STORY)",
+          "url": "https://www.youtube.com/watch?v=GlLCA9dArZ4",
+          "date": "2020-10-15",
+          "sha256": "2522ace59a54baaabbf8fa13b62cd6214f747873c4d46620ec622246a9f212b3",
+          "chars": 39745,
+          "excerpt": "5x on cold uh and then obviously that was feeding the retargeting audience so like campaign not campaign um add total like add account total I think we're at 3."
+        }
+      ],
+      "status": "source_supported"
+    }
+  },
+  "policy": "One source per video ID/article URL; complete Chinese preferred, English fallback; speakers require verification.",
+  "gaps": [
+    "Automatic topic matches are a navigation aid, not proof of a doctrine.",
+    "Interview speaker attribution must be verified before quoting a named person.",
+    "Initial library contains bounded source excerpts, not AI-distilled conclusions."
+  ]
+}

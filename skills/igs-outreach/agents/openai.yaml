@@ -1,0 +1,4 @@
+interface:
+  display_name: "Iman Gadzhi · 潜在客户开发"
+  short_description: "Build a 潜在客户开发 using expert methodology"
+  default_prompt: "Use $igs-outreach to build a practical 潜在客户开发 for my situation."

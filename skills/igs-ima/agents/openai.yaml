@@ -1,0 +1,4 @@
+interface:
+  display_name: "Iman Gadzhi IMA Bridge"
+  short_description: "Retrieve IMA evidence for expert workflows"
+  default_prompt: "Use $igs-ima to retrieve IMA evidence and continue with the right Iman Gadzhi workflow."

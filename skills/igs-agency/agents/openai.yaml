@@ -1,0 +1,4 @@
+interface:
+  display_name: "Iman Gadzhi · 服务型业务设计"
+  short_description: "Build a 服务型业务设计 using expert methodology"
+  default_prompt: "Use $igs-agency to build a practical 服务型业务设计 for my situation."

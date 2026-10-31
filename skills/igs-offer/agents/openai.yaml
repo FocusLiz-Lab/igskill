@@ -1,0 +1,4 @@
+interface:
+  display_name: "Iman Gadzhi · 服务产品与交付承诺"
+  short_description: "Build a 服务产品与交付承诺 using expert methodology"
+  default_prompt: "Use $igs-offer to build a practical 服务产品与交付承诺 for my situation."

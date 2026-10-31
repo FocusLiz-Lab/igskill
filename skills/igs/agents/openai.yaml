@@ -1,0 +1,4 @@
+interface:
+  display_name: "Iman Gadzhi工具箱"
+  short_description: "Iman Gadzhi expert workflow router"
+  default_prompt: "Use $igs to route and solve my 服务型业务获客、销售与交付 problem."
